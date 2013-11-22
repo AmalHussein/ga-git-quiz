@@ -1,4 +1,4 @@
-# ColorMaster Quiz #
+  # ColorMaster Quiz #
 
 <p>This quiz will test, and help you better understand, the flow of control in bash and git. It's designed to 
 cover all of the commands we learned in class. If you find yourself getting stuck on a certain step, let 
